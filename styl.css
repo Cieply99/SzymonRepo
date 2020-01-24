@@ -1,0 +1,67 @@
+body
+{
+	background-color:#222324;
+	color:white;
+}
+header
+{
+	background-color:#222324;
+	height:75px;
+	width:100%;
+	text-align:center;
+}
+#spis
+{
+	background-color:#222324;
+	height:50px;
+	width:100%;
+	
+}
+table
+{
+	width:100%;
+	border-collapse: separate
+	
+}
+td
+{
+	border: 1.5mm ridge #E30909;
+	border-collapse:separate;
+	text-align:center;
+	background-color:#696969;
+	color:white;
+	font-family:Georgia, serif;
+}
+a
+{
+color:white;
+text-decoration:none;
+}
+#mein
+{
+	background-color:#696969;
+	height:90%;
+	width:100%;
+	font-size:x-large;
+}
+h1
+{
+	font-size:x-large;
+}
+h2
+{
+	text-align:center;
+}
+footer
+{
+	background-color:#222324;
+	height:20px;
+	width:100%;
+	text-align:center;
+}
+#obrazek
+{
+ display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

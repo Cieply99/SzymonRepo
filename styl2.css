@@ -1,0 +1,80 @@
+body
+{
+	background-color:#222324;
+	color:white;
+}
+header
+{
+	background-color:#222324;
+	height:75px;
+	width:100%;
+	text-align:center;
+	float:left;
+}
+#mein
+{
+	background-color:#696969;
+	height:80%;
+	width:100%;
+	float:left;
+	font-size:large;
+}
+footer
+{
+	background-color:#222324;
+	height:2%;
+	width:100%;
+	text-align:right;
+	float:left;
+}
+#a
+{
+color:white;
+text-decoration:none;
+border: 1mm ridge #E30909;
+background-color:#696969;
+}
+#obraz
+{
+	float:left;
+}
+#obraz2
+{
+	float:left;
+}
+#obraza
+{
+	height:440px;
+	width:33%;
+	float:left;
+}
+#obrazb
+{
+	height:440px;
+	width:34%;
+	float:left;
+}
+#obrazc
+{
+	height:440px;
+	width:33%;
+	float:left;
+}
+#obrazp
+{
+	height:440px;
+	width:33%;
+	float:right;
+}
+h2
+{
+	text-align:center;
+}
+iframe
+{
+	width:560px; 
+	height:315px;
+	 display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
